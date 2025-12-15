@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1765770446 source:/home/paulmichaelolsen/C++ Projects/Tutorials and Learning/ExamGraderProgram/main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+
