@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1765838917 source:/home/paulmichaelolsen/C++ Projects/Tutorials and Learning/WorldSeriesChampionsProgram/main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+
